@@ -27,10 +27,11 @@
             <td><strong>择时</strong></td>
             <td>ETF轮动</td>
             <td>
-            <a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/RSRS%E6%8B%A9%E6%97%B6%E6%8C%87%E6%A0%87/py/RSRS.ipynb">原始版本</a>
+<!--             <a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/RSRS%E6%8B%A9%E6%97%B6%E6%8C%87%E6%A0%87/py/RSRS.ipynb">原始版本</a>
                         <br><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/RSRS%E6%8B%A9%E6%97%B6%E6%8C%87%E6%A0%87/py/RSRS%E6%94%B9%E8%BF%9B.ipynb">修正版本</a></br>
-                                    <a href="https://www.joinquant.com/view/community/detail/e855e5b3cf6a3f9219583c2281e4d048">本土改造版本</a>
-            <li>《择时-20170501-光大证券-择时系列报告之一：基于阻力支撑相对强度（RSRS）的市场择时》</li>
+                                    <a href="https://www.joinquant.com/view/community/detail/e855e5b3cf6a3f9219583c2281e4d048">本土改造版本</a> -->
+            	<li>《资产配置深度报告：重新认识美林时钟》 中泰证券 2022-08-08</li>
+				<li>《择时系列报告之一：基于阻力支撑相对强度（RSRS）的市场择时》 光大证券 2017-05-01</li>
                 <li>《20191117-光大证券-技术指标系列报告之六：RSRS择时~回顾与改进》</li>
                 <li>最新文章如下,光大金工团队转入中信,将RSRS更名为QRS:</li>
                 <li>《20210121-量化择时系列（1）：金融工程视角下的技术择时艺术》</li>
