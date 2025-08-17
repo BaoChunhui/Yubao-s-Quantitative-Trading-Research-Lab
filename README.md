@@ -425,6 +425,9 @@
 
 ## 更多知识请关注公众号
 
+鱼包的研究笔记
+
+
 ![image](https://github.com/BaoChunhui/Yubao-s-Quantitative-Trading-Research-Lab/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 
