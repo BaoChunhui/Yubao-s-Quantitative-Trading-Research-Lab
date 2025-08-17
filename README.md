@@ -40,11 +40,11 @@
             <td><strong>趋势</strong></td>
                 <td>趋势海龟策略</a></td>
 		<td>
-            <li>《道氏理论》 珍藏版 (美)罗伯特·雷亚(Rhea，R.)著 刘志刚译</li>
-			<li>《海龟交易法则》 (美)柯蒂斯·费思(Rhea，R.)著 乔江涛译</li>
+            <li>《道氏理论》 珍藏版 (美)罗伯特·雷亚(Robert Rhea)著 刘志刚译</li>
+			<li>《海龟交易法则》 (美)柯蒂斯·费思(Curtis Faith)著 乔江涛译</li>
 		</td>
         </tr>
-        <tr>
+<!--         <tr>
             <td><strong>择时</strong></td>
             <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/%E4%BD%8E%E5%BB%B6%E8%BF%9F%E8%B6%8B%E5%8A%BF%E7%BA%BF%E4%B8%8E%E4%BA%A4%E6%98%93%E6%8B%A9%E6%97%B6/py/%E4%BD%8E%E5%BB%B6%E8%BF%9F%E8%B6%8B%E5%8A%BF%E7%BA%BF%E4%B8%8E%E4%BA%A4%E6%98%93%E6%8B%A9%E6%97%B6.ipynb">低延迟趋势线与交易择时</a></td>
             <td>《20170303-广发证券-低延迟趋势线与交易择时》</td>
@@ -416,7 +416,7 @@
         <td>
             <li><a href="https://arxiv.org/abs/2306.13661">《Constructing Time-Series Momentum Portfolios with Deep Multi-Task Learning》</a></li>
         </td>
-    </tr>
+    </tr> -->
 </tboday>
 </table>
 				
