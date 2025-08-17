@@ -420,7 +420,7 @@
 
 分享有更多qlib的模型复现
 
-![image](https://github.com/hugo2046/QuantsPlaybook/raw/5b244d751b7b2671b39d9fc0bf47b285a9b02ff9/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg)
+![image](https://github.com/BaoChunhui/Yubao-s-Quantitative-Trading-Research-Lab/blob/main/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg)
 
 ## 请我喝杯咖啡吧
 
