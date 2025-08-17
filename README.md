@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td><strong>择时</strong></td>
-            <td>ETF轮动</td>
+            <td>ETF轮动策略</td>
             <td>
 <!--             <a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/RSRS%E6%8B%A9%E6%97%B6%E6%8C%87%E6%A0%87/py/RSRS.ipynb">原始版本</a>
                         <br><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/RSRS%E6%8B%A9%E6%97%B6%E6%8C%87%E6%A0%87/py/RSRS%E6%94%B9%E8%BF%9B.ipynb">修正版本</a></br>
