@@ -39,8 +39,10 @@
 <tr>
             <td><strong>趋势</strong></td>
                 <td>趋势海龟策略</a></td>
+		<td>
             <li>《道氏理论》</li>
 			<li>《海龟交易法则》</li>
+		</td>
         </tr>
         <tr>
             <td><strong>择时</strong></td>
