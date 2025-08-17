@@ -54,17 +54,17 @@
 				<li>Liu, Xiao-Yang, et al. "FinRL: Deep reinforcement learning framework to automate trading in quantitative finance." Proceedings of the second ACM international conference on AI in finance. 2021.</li>
 			</td>
         </tr>
+        <tr>
+            <td><strong>高频</strong></td>
+            <td>做市策略</td>
+            <td>Chakraborty, Tanmoy, and Michael Kearns. "Market making and mean reversion." Proceedings of the 12th ACM conference on Electronic commerce. 2011.</td>
+        </tr>
+        <tr>
+            <td><strong>高频</strong></td>
+            <td>A股打板策略</td>
+            <td><a href="https://mp.weixin.qq.com/s/vrW4GYZsbSPgXgbH-EA_ig">板上行为学研究系列</a></td>
+        </tr>
 <!--        <tr>
-            <td><strong>择时</strong></td>
-            <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/%E5%9F%BA%E4%BA%8E%E7%9B%B8%E5%AF%B9%E5%BC%BA%E5%BC%B1%E4%B8%8B%E5%8D%95%E5%90%91%E6%B3%A2%E5%8A%A8%E5%B7%AE%E5%80%BC%E5%BA%94%E7%94%A8/py/%E5%9F%BA%E4%BA%8E%E7%9B%B8%E5%AF%B9%E5%BC%BA%E5%BC%B1%E4%B8%8B%E5%8D%95%E5%90%91%E6%B3%A2%E5%8A%A8%E5%B7%AE%E5%80%BC%E5%BA%94%E7%94%A8.ipynb">基于相对强弱下单向波动差值应用</a></td>
-            <td>《20151022-国信证券-市场波动率研究：基于相对强弱下单向波动差值应用》</td>
-        </tr>
-        <tr>
-            <td><strong>择时</strong></td>
-            <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/%E6%89%A9%E6%95%A3%E6%8C%87%E6%A0%87/py/%E6%89%A9%E6%95%A3%E6%8C%87%E6%A0%87.ipynb">扩散指标</a></td>
-            <td>《择时-20190924-东北证券-金融工程研究报告：扩散指标择时研究之一，基本用法》</td>
-        </tr>
-        <tr>
             <td><strong>择时</strong></td>
             <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/%E6%8C%87%E6%95%B0%E9%AB%98%E9%98%B6%E7%9F%A9%E6%8B%A9%E6%97%B6/py/%E6%8C%87%E6%95%B0%E9%AB%98%E9%98%B6%E7%9F%A9%E6%8B%A9%E6%97%B6.ipynb">指数高阶矩择时</a></td>
             <td>《20150520-广发证券-交易性择时策略研究之八：指数高阶矩择时策略》</td>
