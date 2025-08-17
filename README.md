@@ -37,9 +37,10 @@
             </td>
         </tr>
 <tr>
-            <td><strong>择时</strong></td>
-                <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/QRS%E6%8B%A9%E6%97%B6%E4%BF%A1%E5%8F%B7/QRS.ipynb">QRS择时</a></td>
-            <td>《20210121-中金公司-量化择时系列（1）：金融工程视角下的技术择时艺术》</td>
+            <td><strong>趋势</strong></td>
+                <td>趋势海龟策略</a></td>
+            <td>《道氏理论》</td>
+			<td>《海龟交易法则》</td>
         </tr>
         <tr>
             <td><strong>择时</strong></td>
