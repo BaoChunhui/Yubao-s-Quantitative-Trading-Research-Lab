@@ -45,12 +45,12 @@
 			<li>《海龟交易法则》 (美)柯蒂斯·费思(Curtis Faith)著 乔江涛译</li>
 		</td>
         </tr>
-<!--         <tr>
-            <td><strong>择时</strong></td>
-            <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/%E4%BD%8E%E5%BB%B6%E8%BF%9F%E8%B6%8B%E5%8A%BF%E7%BA%BF%E4%B8%8E%E4%BA%A4%E6%98%93%E6%8B%A9%E6%97%B6/py/%E4%BD%8E%E5%BB%B6%E8%BF%9F%E8%B6%8B%E5%8A%BF%E7%BA%BF%E4%B8%8E%E4%BA%A4%E6%98%93%E6%8B%A9%E6%97%B6.ipynb">低延迟趋势线与交易择时</a></td>
+         <tr>
+            <td><strong>机器学习</strong></td>
+            <td>强化学习指数增强策略</a></td>
             <td>《20170303-广发证券-低延迟趋势线与交易择时》</td>
         </tr>
-        <tr>
+<!--        <tr>
             <td><strong>择时</strong></td>
             <td><a href="https://github.com/hugo2046/QuantsPlaybook/blob/master/C-%E6%8B%A9%E6%97%B6%E7%B1%BB/%E5%9F%BA%E4%BA%8E%E7%9B%B8%E5%AF%B9%E5%BC%BA%E5%BC%B1%E4%B8%8B%E5%8D%95%E5%90%91%E6%B3%A2%E5%8A%A8%E5%B7%AE%E5%80%BC%E5%BA%94%E7%94%A8/py/%E5%9F%BA%E4%BA%8E%E7%9B%B8%E5%AF%B9%E5%BC%BA%E5%BC%B1%E4%B8%8B%E5%8D%95%E5%90%91%E6%B3%A2%E5%8A%A8%E5%B7%AE%E5%80%BC%E5%BA%94%E7%94%A8.ipynb">基于相对强弱下单向波动差值应用</a></td>
             <td>《20151022-国信证券-市场波动率研究：基于相对强弱下单向波动差值应用》</td>
