@@ -419,7 +419,7 @@
 				
 ## 更多源代码分享请加入知识星球
 
-分享有更多qlib的模型复现
+分享有更多策略实现细节
 
 ![image](https://github.com/BaoChunhui/Yubao-s-Quantitative-Trading-Research-Lab/blob/main/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg)
 
