@@ -49,9 +49,8 @@
             <td><strong>机器学习</strong></td>
             <td>强化学习指数增强策略</a></td>
             <td>
-				<li><a href="https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning">《强化学习的数学原理》 赵世钰</a></li>
-				<li><a href="https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file">FinRL: Financial Reinforcement Learning</a></li>
-				<li>Liu, Xiao-Yang, et al. "FinRL: Deep reinforcement learning framework to automate trading in quantitative finance." Proceedings of the second ACM international conference on AI in finance. 2021.</li>
+				<li><a href="https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning">Zhao, Shiyu. Mathematical foundations of reinforcement learning. Springer, 2025.</a></li>
+				<li><a href="https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file">Liu, Xiao-Yang, et al. "FinRL: Deep reinforcement learning framework to automate trading in quantitative finance." Proceedings of the second ACM international conference on AI in finance. 2021.</a></li>
 			</td>
         </tr>
         <tr>
