@@ -7,9 +7,9 @@
  * @Description: 复现目录
  * @FilePath: \undefinedd:\WrokSpace\QuantsPlaybook\README.md
 -->
-# QuantsPlaybook
+# Yubao’s Quantitative Trading Research Lab
 
-## 利用python对国内各大券商的金工研报进行复现
+## 使用python复现公开的量化策略并不断优化，来源主要为书籍、学术论文、券商研报及互联网公开博客等。
 
 数据依赖:[jqdata](https://www.joinquant.com/) 和 [tushare](https://tushare.pro/)
 
