@@ -56,12 +56,16 @@
         <tr>
             <td><strong>高频</strong></td>
             <td>做市策略</td>
-            <td>Chakraborty, Tanmoy, and Michael Kearns. "Market making and mean reversion." Proceedings of the 12th ACM conference on Electronic commerce. 2011.</td>
+            <td>
+				<li>Chakraborty, Tanmoy, and Michael Kearns. "Market making and mean reversion." Proceedings of the 12th ACM conference on Electronic commerce. 2011.</li>
+			</td>
         </tr>
         <tr>
             <td><strong>高频</strong></td>
             <td>A股打板策略</td>
-            <td><a href="https://mp.weixin.qq.com/s/vrW4GYZsbSPgXgbH-EA_ig">板上行为学研究系列</a></td>
+            <td>
+				<li><a href="https://mp.weixin.qq.com/s/vrW4GYZsbSPgXgbH-EA_ig">板上行为学研究系列</a></li>
+			</td>
         </tr>
 <!--        <tr>
             <td><strong>择时</strong></td>
