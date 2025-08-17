@@ -9,11 +9,11 @@
 -->
 # Yubao’s Quantitative Trading Research Lab
 
-## 使用python复现公开的量化策略并不断优化，来源主要为书籍、学术论文、券商研报及互联网公开博客等。
+使用python复现公开的量化策略并不断优化，来源主要为书籍、学术论文、券商研报及互联网公开博客等。
 
-数据依赖:[jqdata](https://www.joinquant.com/) 和 [tushare](https://tushare.pro/)
+基于开源回测框架vnpy、backtrader、迅投qmt以及自研回测框架yubaoAtrader、yubaoBtrader、yubaoCtrader
 
-每个文件夹中有对应的券商研报及相关的论文,py文件中为ipynb的复现文档
+每个文件夹中有对应的券商研报及相关的论文，py文件以及ipynb文件的源代码
 
 ## 目录
 <table>
