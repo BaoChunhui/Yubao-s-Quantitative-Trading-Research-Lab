@@ -48,7 +48,7 @@
          <tr>
             <td><strong>机器学习</strong></td>
             <td>强化学习指数增强策略</a></td>
-            <td>《20170303-广发证券-低延迟趋势线与交易择时》</td>
+            <td>Liu, Xiao-Yang, et al. "FinRL: Deep reinforcement learning framework to automate trading in quantitative finance." Proceedings of the second ACM international conference on AI in finance. 2021.</td>
         </tr>
 <!--        <tr>
             <td><strong>择时</strong></td>
