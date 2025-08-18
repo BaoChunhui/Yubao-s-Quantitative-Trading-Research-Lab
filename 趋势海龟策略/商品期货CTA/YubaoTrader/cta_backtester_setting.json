@@ -1,0 +1,11 @@
+{
+    "class_name": "MyAtrRsiStrategy",
+    "vt_symbol": "IF88.CFFEX",
+    "interval": "1m",
+    "start": "2012-08-13",
+    "rate": 2.5e-05,
+    "slippage": 0.2,
+    "size": 300.0,
+    "pricetick": 0.2,
+    "capital": 1000000.0
+}

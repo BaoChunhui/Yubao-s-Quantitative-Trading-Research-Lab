@@ -1,0 +1,34 @@
+{
+    "TurtleCTA": {
+        "class_name": "TurtleStrategy50",
+        "vt_symbols": [
+            "rb2510.SHFE",
+            "ec2510.INE",
+            "ao2509.SHFE",
+            "SA509.CZCE",
+            "hc2510.SHFE",
+            "TL2509.CFFEX",
+            "sp2509.SHFE",
+            "CF509.CZCE",
+            "jm2601.DCE",
+            "SM509.CZCE",
+            "TA509.CZCE",
+            "IF2509.CFFEX",
+            "IM2509.CFFEX",
+            "si2509.GFEX",
+            "c2509.DCE",
+            "jd2509.DCE"
+        ],
+        "setting": {
+            "entry_window": 20,
+            "exit_window": 8,
+            "cci_window": 10,
+            "cci_signal": 10,
+            "n_window": 15,
+            "unit_limit": 2,
+            "price_add": 10,
+            "capital": 20000000,
+            "risk_level": 0.002
+        }
+    }
+}
