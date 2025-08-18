@@ -53,6 +53,14 @@
 				<li><a href="https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file">Liu, Xiao-Yang, et al. "FinRL: Deep reinforcement learning framework to automate trading in quantitative finance." Proceedings of the second ACM international conference on AI in finance. 2021.</a></li>
 			</td>
         </tr>
+         <tr>
+            <td><strong>机器学习</strong></td>
+            <td>监督学习指数增强策略</a></td>
+            <td>
+				<li><a href="https://github.com/microsoft/qlib">Yang, Xiao, et al. "Qlib: An ai-oriented quantitative investment platform." arXiv preprint arXiv:2009.11189 (2020).</a></li>
+				<li>Li, Yuante, et al. "R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization." arXiv preprint arXiv:2505.15155 (2025).</li>
+			</td>
+        </tr>
         <tr>
             <td><strong>高频</strong></td>
             <td>做市策略</td>
