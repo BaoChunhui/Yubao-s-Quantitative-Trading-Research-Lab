@@ -66,6 +66,7 @@
             <td>做市策略</td>
             <td>
 				<li>Chakraborty, Tanmoy, and Michael Kearns. "Market making and mean reversion." Proceedings of the 12th ACM conference on Electronic commerce. 2011.</li>
+				<li>Avellaneda, Marco, and Sasha Stoikov. "High-frequency trading in a limit order book." Quantitative Finance 8.3 (2008): 217-224.</li>
 			</td>
         </tr>
         <tr>
